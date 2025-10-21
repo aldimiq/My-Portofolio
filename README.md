@@ -42,7 +42,7 @@ python -m http.server 5173
 1. Create a new repo (e.g., `aldi-portfolio`).
 2. Push these files to the `main` branch.
 3. In GitHub → **Settings → Pages** → Source: `Deploy from a branch`, Branch: `main` (`/root`).
-4. Wait a minute — your site will be live at `https://<your-username>.github.io/aldi-portfolio/`.
+4. Wait a minute — your site will be live at `https://aldimiq.github.io/aldi-portfolio/`.
 
 
 ### Use as your profile site (optional)
